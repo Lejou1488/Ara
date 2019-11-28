@@ -1,0 +1,11 @@
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\bin\Debug\netcoreapp3.0\РКиС 4.exe
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\bin\Debug\netcoreapp3.0\РКиС 4.deps.json
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\bin\Debug\netcoreapp3.0\РКиС 4.runtimeconfig.json
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\bin\Debug\netcoreapp3.0\РКиС 4.runtimeconfig.dev.json
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\bin\Debug\netcoreapp3.0\РКиС 4.dll
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\bin\Debug\netcoreapp3.0\РКиС 4.pdb
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\obj\Debug\netcoreapp3.0\РКиС 4.csprojAssemblyReference.cache
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\obj\Debug\netcoreapp3.0\РКиС 4.AssemblyInfoInputs.cache
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\obj\Debug\netcoreapp3.0\РКиС 4.AssemblyInfo.cs
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\obj\Debug\netcoreapp3.0\РКиС 4.dll
+C:\Users\Иван Румянцев\source\repos\РКиС 4\РКиС 4\obj\Debug\netcoreapp3.0\РКиС 4.pdb
