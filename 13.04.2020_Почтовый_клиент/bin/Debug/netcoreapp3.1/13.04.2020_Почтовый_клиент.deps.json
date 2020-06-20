@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "13.04.2020_Почтовый_клиент/1.0.0": {
+        "runtime": {
+          "13.04.2020_Почтовый_клиент.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13.04.2020_Почтовый_клиент/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

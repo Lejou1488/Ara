@@ -1,0 +1,11 @@
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\bin\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.exe
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\bin\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.deps.json
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\bin\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.runtimeconfig.json
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\bin\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.runtimeconfig.dev.json
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\bin\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.dll
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\bin\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.pdb
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\obj\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.csprojAssemblyReference.cache
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\obj\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.AssemblyInfoInputs.cache
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\obj\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.AssemblyInfo.cs
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\obj\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.dll
+C:\Users\Иван Румянцев\source\repos\13.04.2020_Почтовый_клиент\13.04.2020_Почтовый_клиент\obj\Debug\netcoreapp3.1\13.04.2020_Почтовый_клиент.pdb
