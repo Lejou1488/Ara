@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "20.03.2020 Работа с фаилами/1.0.0": {
+        "runtime": {
+          "20.03.2020 Работа с фаилами.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20.03.2020 Работа с фаилами/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\bin\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.exe
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\bin\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.deps.json
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\bin\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.runtimeconfig.json
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\bin\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.runtimeconfig.dev.json
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\bin\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.dll
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\bin\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.pdb
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\obj\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.csprojAssemblyReference.cache
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\obj\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.AssemblyInfoInputs.cache
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\obj\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.AssemblyInfo.cs
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\obj\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.dll
+C:\Users\Иван Румянцев\source\repos\20.03.2020 Работа с фаилами\20.03.2020 Работа с фаилами\obj\Debug\netcoreapp3.1\20.03.2020 Работа с фаилами.pdb
